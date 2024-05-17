@@ -1,3 +1,3 @@
 # Cars-Counter-using-YOLOv8
 
-### This task counts how many cars passed across specefic region on the road.
+### I used YOLOv8 to detect cars and count the number of cars that passed on the road.
